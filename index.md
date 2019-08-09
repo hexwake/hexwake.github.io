@@ -2,7 +2,6 @@
 
 ![Laughing Man](https://i.imgur.com/sdLBre4.png)
 
-[Bloggin](/_posts/2019-08-09-wrekt.md)
 
 <ul>
   {% for post in site.posts %}
