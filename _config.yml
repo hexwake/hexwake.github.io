@@ -2,3 +2,4 @@ theme: jekyll-theme-midnight
 title: TinkerBox
 description: blog?
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
