@@ -8,5 +8,5 @@
 	{{ post.title }}
   </a>
   {{ post.excerpt }}
-  {{ post.date | "%m/%d/%Y" }}
+  {{ post.date | date: "%m/%d/%Y" }}
 {% endfor %}
