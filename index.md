@@ -8,6 +8,7 @@
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
       {{ post.excerpt }}
+      {{ date: ‘%Y %m %d’ }}
     </li>
   {% endfor %}
 </ul>
