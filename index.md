@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-![Laughing Man](https://i.imgur.com/sdLBre4.png)
-
 <div style="text-align: center"><img src="https://i.imgur.com/sdLBre4.png" width="100" /></div>
 
 
