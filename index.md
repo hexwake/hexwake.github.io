@@ -1,6 +1,6 @@
 ## Under Construction
 
-![Laughing Man](https://i.imgur.com/sdLBre4.png)
+<img style="float: center;" src="https://i.imgur.com/sdLBre4.png">
 
 
 <ul>
