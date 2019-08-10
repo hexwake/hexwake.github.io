@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![Laughing Man](https://i.imgur.com/sdLBre4.png)
+![Laughing Man](https://i.imgur.com/sdLBre4.png){: .center-image }
 
 
 {% for post in site.posts %}
