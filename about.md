@@ -2,14 +2,7 @@
 layout: default
 permalink: /about/
 ---
+
 ![Laughing Man](https://i.imgur.com/sdLBre4.png){: .center-image }
 
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Hi</title>
-</head>
-<body>
 I tinker with things.
-</body>
-</html>
