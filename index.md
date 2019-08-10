@@ -1,14 +1,12 @@
 ## Under Construction
 
-<img style="float: center;" src="https://i.imgur.com/sdLBre4.png">
+![Laughing Man](https://i.imgur.com/sdLBre4.png)
 
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-      {{ page.date | date: "%m/%d/%Y" }}
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <a href="{{ post.url }}">
+    <h2>{{ post.title }}</h2>
+    {{ post.excerpt }}
+    <p>{{ post.date | date_to_string }}</p>
+  </a>
+{% endfor %}
