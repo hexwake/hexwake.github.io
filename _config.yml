@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
 title: TinkerBox
 description: blog?
-permalink: /:categories/:year/:month/:day/:title:output_ext
+permalink: /:date:title:output_ext
