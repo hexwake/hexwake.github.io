@@ -5,7 +5,7 @@
 
 {% for post in site.posts %}
   <a href="{{ post.url }}">
-    ### {{ post.title }}
+	{{ post.title }}
   </a>
   <p>{{ post.date | date_to_string }}</p>
   {{ post.excerpt }}
