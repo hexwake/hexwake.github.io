@@ -1,3 +1,3 @@
 # hexwake.github.io
 
-blog nightmare thing
+blog thing
